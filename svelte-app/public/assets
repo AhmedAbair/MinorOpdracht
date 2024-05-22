@@ -1,0 +1,11 @@
+svelte-app
+├── public
+│   ├── assets
+│   │   ├── rijkswaterLogo.png
+│   │   ├── boat1.png
+│   │   ├── boat2.png
+│   │   ├── boat3.png
+│   └── index.html
+└── src
+    ├── App.svelte
+    └── main.js
