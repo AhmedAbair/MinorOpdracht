@@ -87,7 +87,7 @@
   
   <header>
 	<div class="logo">
-	  <img src="C:\Users\ahmed\OneDrive\Bureaublad\bootShizzle\svelte-app\public\rijkswaterLogo.png">
+		<img src="/rijkswaterLogo.png" alt="Rijkswaterstaat Logo">
 	  <h1>Rijkswaterstaat experience</h1>
 	</div>
 	<div class="nav-links">
