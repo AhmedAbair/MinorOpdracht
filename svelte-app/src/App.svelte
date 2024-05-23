@@ -1,4 +1,5 @@
 <script>
+	//command blalalalal
 	// Add any necessary JavaScript here
   </script>
   
